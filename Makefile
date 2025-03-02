@@ -1,0 +1,2 @@
+basic:
+	wasm-pack build
